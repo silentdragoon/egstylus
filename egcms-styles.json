@@ -1,0 +1,126 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": true,
+      "openEditInWindow.popup": false,
+      "windowPosition": {
+        "height": 1400,
+        "left": 10,
+        "top": 5,
+        "width": 1294
+      },
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "newStyleAsUsercss": false,
+      "styleViaXhr": false,
+      "patchCsp": false,
+      "config.autosave": true,
+      "popup.breadcrumbs": true,
+      "popup.breadcrumbs.usePath": false,
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findStylesInline": true,
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": true,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.newUI": true,
+      "manage.newUI.favicons": false,
+      "manage.newUI.faviconsGray": true,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "sublime",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": true,
+      "editor.selectByTokens": true,
+      "editor.appliesToLineWidget": true,
+      "editor.livePreview": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "#333",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": 0,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "popupWidth": 246,
+      "updateInterval": 24
+    }
+  },
+  {
+    "enabled": false,
+    "updateUrl": null,
+    "url": null,
+    "installDate": 1623691041766,
+    "name": "EGCMS (dark mode only)",
+    "sections": [
+      {
+        "code": "div#editroom {\n    background: #535353 !important;\n}\n\ntextarea.content-box {\n    background-color: #444 !important;\n    color: #ccc !important;\n}\n\ntextarea, p.hint {\n    background-color: #444;\n    color: #ccc;\n}\n\ninput, body {\n    background-color: #444 !important;\n    color: #ccc !important;\n}\n\nul#tabs {\n    background-image: none;\n    background-color: #333;\n}\n\nul#tabs li a {\n    color: #00aeff;\n}\n\nul#tabs li a.on {\n    background-color: #444;\n}\n\na:-webkit-any-link {\n    color: #00aeff;\n}\n\n#assets tr.system-headline {\n    background-color: #222;\n}\n\ntable.standard tbody tr:hover td {\n    background-color: #333 !important;\n}\n\ndiv.section label.title span {\n    background-color: #444;\n    color: #ccc;\n}\n\nlabel, div.section label {\n    color: #fff;\n}\n\n.column .group input + label {\n    background: #555;\n}\n\n.column .group input[type=\"radio\"]:checked + label {\n    background: #0069ff;\n    color: white;\n}\n\n.column .group input[type=\"checkbox\"] + label {\n    background: #555;\n}\n\ndiv.toolbar ul li {\n    filter: grayscale(100%) invert(.7);\n}\n\n.column .group input + label {\n    border: 2px solid #ccc;\n\n}\n\n.uploader, .uploader main {\n    background-color: #333;\n}\n\n#editroom > .toc > a, #editroom > .toc > button {\n    background-color: #00aeff;\n    background-image: none;\n\n}\n\n#okPanel {\n    background-color: #555;\n}\n\ndiv.section div.tools a, a.button, button, .associated-topics span.suggest-topics {\n    background-color: #00aeff;\n}\n\n#okPanel > .quick-links > a {\n    color: #00aeff;\n}\n\nselect {\n    background-color: #555;\n    color: #ccc;\n}\n\n#assets table tbody tr td .comparison-tags button {\n    background-color: #00aeff94;\n}\n\nul#modes li a, #adminLogin p a {\n    color: #00aeff;\n}\n\n.uploader footer .button {\n    color: #fff;\n}\n\n.column .group input[type=\"checkbox\"]:checked + label, .column .group input[type=\"radio\"]:checked + label {\n    background: #00aeff;\n    background-image: none;\n}\n\n#okPanel > button.cancel {\n    background: -webkit-linear-gradient(#ccdc00, #00ff6b);\n}\n\n#topBar {\n    background-color: #535353;\n}\n\n.group input[type=\"checkbox\"] + label:hover, .group input[type=\"radio\"] + label:hover {\n    background: #00aeff94;\n}",
+        "urlPrefixes": [
+          "https://egcms.gamer-network.net/cms/article.php"
+        ]
+      }
+    ],
+    "updateDate": 1623697516685,
+    "_id": "3c394e37-2da9-45eb-b7db-b37cf5cbdeb5",
+    "_rev": 1623697516685,
+    "id": 5
+  },
+  {
+    "enabled": true,
+    "updateUrl": null,
+    "url": null,
+    "installDate": 1623697487841,
+    "name": "EGCMS (font, layout, dark)",
+    "sections": [
+      {
+        "code": "@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500&display=swap');\n\ndiv#editroom {\n    width: 1090px !important;\n    height: 800px !important;\n    overflow: hidden !important;\n    background: #535353 !important;\n}\n\ntextarea.content-box {\n    -webkit-font-smoothing: antialiased;\n    -webkit-print-color-adjust: exact;\n    font-family: 'Gibson', 'Work Sans', 'Courier', 'Shippori Mincho B1', \"Roboto\", \"Gordita\", \"Freight Text\", \"Work Sans\" !important; \n    font-weight: 300;\n    font-size: 17px !important;\n    /* letter-spacing: .5px !important; */\n    line-height: 23.8px !important;\n    /* width: 1080px !important; */\n    /* color: rgb(51, 51, 51) !important; */\n    height: 620px !important;\n    background-color: #444 !important;\n    color: #ccc !important;\n}\n\ntextarea, p.hint {\n    background-color: #444;\n    color: #ccc;\n}\n\ninput, body {\n    background-color: #444 !important;\n    color: #ccc !important;\n}\n\nul#tabs {\n    background-image: none;\n    background-color: #333;\n}\n\nul#tabs li a {\n    display: block;\n    padding: .5rem .675rem .675rem;\n    margin: 0;\n    color: #00aeff;\n    text-decoration: none;\n    font-weight: bold;\n}\n\nul#tabs li a.on {\n    background-color: #444;\n}\n\ndiv#cmsPanel {\n    margin: auto !important;\n    width: 50% !important;\n    float: none !important;\n    padding-left: 70px;\n}\n\ndiv#mainPanel {\n    width: auto !important;\n}\n\na:-webkit-any-link {\n    color: #00aeff;\n}\n\n#assets tr.system-headline {\n    background-color: #222;\n}\n\ntable.standard tbody tr:hover td {\n    background-color: #333 !important;\n}\n\ndiv.section label.title span {\n    background-color: #444;\n    color: #ccc;\n}\n\nlabel, div.section label {\n    color: #fff;\n}\n\n.column .group input + label {\n    background: #555;\n}\n\n.column .group input[type=\"radio\"]:checked + label {\n    background: #0069ff;\n    color: white;\n}\n\n.column .group input[type=\"checkbox\"] + label {\n    background: #555;\n}\n\ndiv.toolbar ul li {\n    filter: grayscale(100%) invert(.7);\n}\n\n.column .group input + label {\n    border: 2px solid #ccc;\n\n}\n\n.uploader, .uploader main {\n    background-color: #333;\n}\n\n#editroom > .toc > a, #editroom > .toc > button {\n    background-color: #00aeff;\n    background-image: none;\n\n}\n\n#okPanel {\n    background-color: #555;\n}\n\ndiv.section div.tools a, a.button, button, .associated-topics span.suggest-topics {\n    background-color: #00aeff;\n}\n\n#okPanel > .quick-links > a {\n    color: #00aeff;\n}\n\nselect {\n    background-color: #555;\n    color: #ccc;\n}\n\n#assets table tbody tr td .comparison-tags button {\n    background-color: #00aeff94;\n}\n\nul#modes li a, #adminLogin p a {\n    color: #00aeff;\n}\n\n.uploader footer .button {\n    color: #fff;\n}\n\n.column .group input[type=\"checkbox\"]:checked + label, .column .group input[type=\"radio\"]:checked + label {\n    background: #00aeff;\n    background-image: none;\n}\n\n#okPanel > button.cancel {\n    background: -webkit-linear-gradient(#ccdc00, #00ff6b);\n}\n\n#topBar {\n    background-color: #535353;\n}\n\n.group input[type=\"checkbox\"] + label:hover, .group input[type=\"radio\"] + label:hover {\n    background: #00aeff94;\n}",
+        "urlPrefixes": [
+          "https://egcms.gamer-network.net/cms/article.php"
+        ]
+      }
+    ],
+    "updateDate": 1623697487841,
+    "_id": "1c2db4d3-8b9f-493e-8b7c-c85571316606",
+    "_rev": 1623697487841,
+    "id": 8
+  }
+]
