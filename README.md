@@ -15,8 +15,18 @@ This is a set of two styles for the EG CMS. One is a dark mode that changes the 
 * Install Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/) or [Opera](https://addons.opera.com/extensions/details/stylus/). 
 * Open and save [this .json file to your desktop](https://raw.githubusercontent.com/silentdragoon/egstylus/main/egcms-styles.json)
 * Open Stylus by clicking on the S icon in the top right of your toolbar or extensions list
+
+![Stylus icon](https://i.imgur.com/KxO5GRu.gif)
+
 * Click **Manage** and a screen will appear
 * Under the **Backup** section on the left select Import
+
+![Stylus manage screen](https://i.imgur.com/ss4hioj.gif)
+
 * Select the .json file you downloaded earlier
 * It should say "Finished importing styles" and "2 added"
 * Tick your preferred style to enable it, or untick it to disable it. As well as doing this on the **Manage** screen, you can also do this on the EG CMS itself by clicking the Stylus icon (in the upper right of the screen or in the extensions list for Chrome users).
+
+![Stylus disable and enable](https://i.imgur.com/mAe9oPz.png)
+
+If anything doesn't work, or you'd like to make changes to the style but you're not quite sure how, hit me up - happy to help.
