@@ -1,6 +1,10 @@
 # egstylus
 
-This is a set of two styles for the EG CMS. One is a dark mode that changes the colour scheme of the article writing/editing screen, while the other includes the same dark colour scheme but also includes layout and font changes. Everything is written in CSS and can be tweaked to your liking (eg you can write in the name of a font of your choice, change the font size and so on). The styles are applied using Stylus, an extension supported by most modern browsers.
+This is a set of two styles for the EG CMS. One is a dark mode that changes the colour scheme of the article writing/editing screen, while the other includes the same dark colour scheme but also includes layout and font changes. 
+
+Everything is written in CSS and can be tweaked to your liking with a bit of experimenting (eg you can write in the name of a font of your choice, change the font size and so on). 
+
+The styles are applied using Stylus, an extension supported by most modern browsers.
 
 **Dark mode only**
 
