@@ -1,0 +1,165 @@
+@-moz-document url-prefix("https://egcms.gamer-network.net/cms/article.php") {
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500&display=swap');
+
+div#editroom {
+    width: 1090px !important;
+    height: 800px !important;
+    overflow: hidden !important;
+    background: #535353 !important;
+}
+
+textarea.content-box {
+    -webkit-font-smoothing: antialiased;
+    -webkit-print-color-adjust: exact;
+    font-family: 'Gibson', 'Work Sans', 'Courier', 'Shippori Mincho B1', "Roboto", "Gordita", "Freight Text", "Work Sans" !important; 
+    font-weight: 300;
+    font-size: 17px !important;
+    /* letter-spacing: .5px !important; */
+    line-height: 23.8px !important;
+    /* width: 1080px !important; */
+    /* color: rgb(51, 51, 51) !important; */
+    height: 620px !important;
+    background-color: #444 !important;
+    color: #ccc !important;
+}
+
+textarea, p.hint {
+    background-color: #444;
+    color: #ccc;
+}
+
+input, body {
+    background-color: #444 !important;
+    color: #ccc !important;
+}
+
+ul#tabs {
+    background-image: none;
+    background-color: #333;
+}
+
+ul#tabs li a {
+    display: block;
+    padding: .5rem .675rem .675rem;
+    margin: 0;
+    color: #00aeff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul#tabs li a.on {
+    background-color: #444;
+}
+
+div#cmsPanel {
+    margin: auto !important;
+    width: 50% !important;
+    float: none !important;
+    padding-left: 70px;
+}
+
+div#mainPanel {
+    width: auto !important;
+}
+
+a:-webkit-any-link {
+    color: #00aeff;
+}
+
+#assets tr.system-headline {
+    background-color: #222;
+}
+
+table.standard tbody tr:hover td {
+    background-color: #333 !important;
+}
+
+div.section label.title span {
+    background-color: #444;
+    color: #ccc;
+}
+
+label, div.section label {
+    color: #fff;
+}
+
+.column .group input + label {
+    background: #555;
+}
+
+.column .group input[type="radio"]:checked + label {
+    background: #0069ff;
+    color: white;
+}
+
+.column .group input[type="checkbox"] + label {
+    background: #555;
+}
+
+div.toolbar ul li {
+    filter: grayscale(100%) invert(.7);
+}
+
+.column .group input + label {
+    border: 2px solid #ccc;
+
+}
+
+.uploader, .uploader main {
+    background-color: #333;
+}
+
+#editroom > .toc > a, #editroom > .toc > button {
+    background-color: #00aeff;
+    background-image: none;
+
+}
+
+#okPanel {
+    background-color: #555;
+}
+
+div.section div.tools a, a.button, button, .associated-topics span.suggest-topics {
+    background-color: #00aeff;
+}
+
+#okPanel > .quick-links > a {
+    color: #00aeff;
+}
+
+select {
+    background-color: #555;
+    color: #ccc;
+}
+
+#assets table tbody tr td .comparison-tags button {
+    background-color: #00aeff94;
+}
+
+ul#modes li a, #adminLogin p a {
+    color: #00aeff;
+}
+
+.uploader footer .button {
+    color: #fff;
+}
+
+.column .group input[type="checkbox"]:checked + label, .column .group input[type="radio"]:checked + label {
+    background: #00aeff;
+    background-image: none;
+}
+
+#okPanel > button.cancel {
+    background: -webkit-linear-gradient(#ccdc00, #00ff6b);
+}
+
+#topBar {
+    background-color: #535353;
+}
+
+.group input[type="checkbox"] + label:hover, .group input[type="radio"] + label:hover {
+    background: #00aeff94;
+}
+}
