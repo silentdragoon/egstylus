@@ -38,11 +38,11 @@ The styles are applied using Stylus, an extension supported by most modern brows
 
 Click the S Stylus icon while you're in the CMS editor, then click the little pencil near the theme you have enabled. This will show you a long list of CSS. From here, you can make changes by changing the CSS directly. For example, if you wanted to change the font, just type in a new font name where it says:
 
-  font-family: "Gibson", "Work Sans";
+    font-family: "Gibson", "Work Sans";
   
 So if we wanted our editor font to be Georgia, we'd just change it to read:
 
-  font-family: "Georgia", "Gibson", "Work Sans";
+    font-family: "Georgia", "Gibson", "Work Sans";
 
 Similarly, if you want to change the font size or line height, just type in your own values. You can't go too far wrong here, and if you delete the lines completely, it'll revert to the site's default theming for that item. If you feel you've screwed up, just delete the styles (Stylus > Manage > select the 'X' next to the theme name) and import the .json file you downloaded again.
 
