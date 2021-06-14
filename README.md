@@ -4,7 +4,7 @@ This is a set of two styles for the EG CMS. One is a dark mode that changes the 
 
 **Dark mode only**
 
-![Dark mode only screenshot]https://i.imgur.com/i9GJyrq.gif)
+![Dark mode only screenshot](https://i.imgur.com/i9GJyrq.gif)
 
 **Fancy dark mode**
 
