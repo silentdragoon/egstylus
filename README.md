@@ -1,6 +1,11 @@
 # egstylus
 
-This is a set of two styles for the EG CMS. One is a dark mode that changes the colour scheme of the article writing/editing screen, while the other includes the same dark colour scheme but also includes layout and font changes. 
+This is a set of ~~two~~four styles for the EG CMS that change its appearance in terms of colour palette, layout and font.
+
+1. Dark mode sensitive with layout and font changes
+2. Dark mode with layout and font changes
+3. Light mode with layout and font changes
+4. Dark mode only (no layout or font changes)
 
 Everything is written in CSS and can be tweaked to your liking with a bit of experimenting (eg you can write in the name of a font of your choice, change the font size and so on). 
 
