@@ -101,11 +101,11 @@
     ],
     "updateDate": 1623697516685,
     "_id": "3c394e37-2da9-45eb-b7db-b37cf5cbdeb5",
-    "_rev": 1623697516685,
+    "_rev": 1625490058374,
     "id": 5
   },
   {
-    "enabled": true,
+    "enabled": false,
     "updateUrl": null,
     "url": null,
     "installDate": 1623697487841,
@@ -120,7 +120,26 @@
     ],
     "updateDate": 1623697487841,
     "_id": "1c2db4d3-8b9f-493e-8b7c-c85571316606",
-    "_rev": 1623697487841,
+    "_rev": 1625490330723,
     "id": 8
+  },
+  {
+    "enabled": true,
+    "updateUrl": null,
+    "url": null,
+    "installDate": 1625490309947,
+    "name": "EG CMS (font, layout, light)",
+    "sections": [
+      {
+        "code": "@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500&display=swap');\n\ndiv#editroom {\n    width: 1090px !important;\n    height: 800px !important;\n    overflow: hidden !important;\n}\n\ntextarea.content-box {\n    -webkit-font-smoothing: antialiased;\n    -webkit-print-color-adjust: exact;\n    font-family: 'Gibson', 'Work Sans', 'Courier', 'Shippori Mincho B1', \"Roboto\", \"Gordita\", \"Freight Text\", \"Work Sans\" !important; \n    font-weight: 300;\n    font-size: 17px !important;\n    /* letter-spacing: .5px !important; */\n    line-height: 23.8px !important;\n    /* width: 1080px !important; */\n    /* color: rgb(51, 51, 51) !important; */\n    height: 620px !important;\n}\n\nul#tabs li a {\n    display: block;\n    padding: .5rem .675rem .675rem;\n    margin: 0;\n    text-decoration: none;\n    font-weight: bold;\n}\n\ndiv#cmsPanel {\n    margin: auto !important;\n    width: 50% !important;\n    float: none !important;\n    padding-left: 70px;\n}\n\ndiv#mainPanel {\n    width: auto !important;\n}",
+        "domains": [
+          "egcms.gamer-network.net"
+        ]
+      }
+    ],
+    "updateDate": 1625490382262,
+    "_id": "ab54292a-df57-4fd9-a940-653536351521",
+    "_rev": 1625490382262,
+    "id": 9
   }
 ]
