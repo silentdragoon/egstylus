@@ -33,7 +33,7 @@ The styles are applied using Stylus, an extension supported by most modern brows
 ![Stylus manage screen](https://i.imgur.com/ss4hioj.gif)
 
 * Select the .json file you downloaded earlier
-* It should say "Finished importing styles" and "2 added"
+* It should say "Finished importing styles" and "4 added"
 * Tick your preferred style to enable it, or untick it to disable it. As well as doing this on the **Manage** screen, you can also do this on the EG CMS itself by clicking the Stylus icon (in the upper right of the screen or in the extensions list for Chrome users).
 * To have the default Gibson font work, you'll need to install it on your PC using Adobe Creative Cloud. Open the Creative Cloud app, click the *f* icon in the upper right corner of the screen. Then click on "Browse More Fonts", which opens your web browser. Sign in with your Reedpop account if needed. Search for Gibson in the search box at the top of the screen. Click on the search result, then click on the toggle switch in the upper right to "activate 32 Gibson fonts". This will download the font to your computer, and after a minute or two you should be able to close and open your browser (or restart your PC) to see the font in use in the EG CMS with the Layout + Font + Dark mode version of the theme. See the instructions below if you fancy a different font.
 
