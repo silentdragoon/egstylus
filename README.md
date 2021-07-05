@@ -2,10 +2,10 @@
 
 This is a set of ~~two~~ four styles for the EG CMS that change its appearance in terms of colour palette, layout and font.
 
-1. Dark mode sensitive with layout and font changes
-2. Dark mode with layout and font changes
-3. Light mode with layout and font changes
-4. Dark mode only (no layout or font changes)
+1. Dark mode sensitive with layout and font changes (mirrors your OS dark mode setting)
+2. Forced dark mode with layout and font changes
+3. Forced light mode with layout and font changes
+4. Forced dark mode only (no layout or font changes)
 
 Everything is written in CSS and can be tweaked to your liking with a bit of experimenting (eg you can write in the name of a font of your choice, change the font size and so on). 
 
