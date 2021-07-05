@@ -1,6 +1,6 @@
 # egstylus
 
-This is a set of ~~two~~four styles for the EG CMS that change its appearance in terms of colour palette, layout and font.
+This is a set of ~~two~~ four styles for the EG CMS that change its appearance in terms of colour palette, layout and font.
 
 1. Dark mode sensitive with layout and font changes
 2. Dark mode with layout and font changes
